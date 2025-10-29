@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main(){
+  char a[20],b[20];
+  scanf("%s %s",a,b);
+  printf("%s %s - is the entered input\n",a,b);
+}  
